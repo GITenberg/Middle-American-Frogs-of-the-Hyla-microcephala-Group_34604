@@ -1,0 +1,34 @@
+_repo: Middle-American-Frogs-of-the-Hyla-microcephala-Group_34604
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Fouquette, M. J.
+    gutenberg_agent_id: '37119'
+    url: http://www.gutenberg.org/2009/agents/37119
+  - agent_name: Duellman, William Edward
+    alias: Duellman, William E. (William Edward)
+    birthdate: 1930
+    gutenberg_agent_id: '35075'
+    url: http://www.gutenberg.org/2009/agents/35075
+description: ''
+gutenberg_bookshelf:
+- Animal
+- Animals-Wild-Reptiles and Amphibians
+gutenberg_issued: '2010-12-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34604'
+  lccn: '68064994'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Frogs -- Central America'
+- !lcsh 'Hyla microcephala'
+- !lcc 'QH'
+title: Middle American Frogs of the Hyla microcephala Group
+url: http://www.gutenberg.org/ebooks/34604
